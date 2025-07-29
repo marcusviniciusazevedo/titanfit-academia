@@ -1,4 +1,4 @@
-# Banco de Dados Academia Titan Fit
+# Banco de Dados para a Academia Titan Fit
 Proposta de criar um banco de dados para uma academia com exercícios executadas pelos alunos, aulas ministradas por professores, infraestrutura de rede e materiais utilizados na manutenção do estabelecimento.
 
 ### Tecnologia
