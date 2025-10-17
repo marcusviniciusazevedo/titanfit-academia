@@ -3,4 +3,5 @@ Proposta de criar um banco de dados para uma academia com exercícios executados
 
 ### Tecnologia
 ![Static Badge](https://img.shields.io/badge/SQL_Server-black?style=flat&logoColor=white&logoSize=auto&color=black)
+![Static Badge](https://img.shields.io/badge/Gemini-black?style=flat&logo=googlegemini&logoColor=white&color=black)
 
